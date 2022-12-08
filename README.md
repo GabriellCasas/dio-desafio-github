@@ -3,4 +3,4 @@ Desafio criado para o Desafio de Projeto.
 
 
 ## Links Úteis
-[Sintax Basica Markdown](https://markdownguide.org/basic-syntax/)
+[Sintax Básica Markdown](https://markdownguide.org/basic-syntax/)
