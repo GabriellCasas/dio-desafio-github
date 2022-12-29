@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zghtalakvP4OmZw70M/K4DNlgLFebVwT0AHzPyS3mudE81Nj7EMzlXV46/ivVgRhSKHrPWAaUZdtKaeJyUGcAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\Desafio-GitHub-DIO\\dio-desafio-github\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
